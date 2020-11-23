@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/Dollar-React/static/css/main.a3c70c56.chunk.css",
-    "main.js": "/Dollar-React/static/js/main.4797cd90.chunk.js",
-    "main.js.map": "/Dollar-React/static/js/main.4797cd90.chunk.js.map",
-    "runtime-main.js": "/Dollar-React/static/js/runtime-main.8f0df983.js",
-    "runtime-main.js.map": "/Dollar-React/static/js/runtime-main.8f0df983.js.map",
-    "static/js/2.07c0f258.chunk.js": "/Dollar-React/static/js/2.07c0f258.chunk.js",
-    "static/js/2.07c0f258.chunk.js.map": "/Dollar-React/static/js/2.07c0f258.chunk.js.map",
-    "static/js/3.de7241f5.chunk.js": "/Dollar-React/static/js/3.de7241f5.chunk.js",
-    "static/js/3.de7241f5.chunk.js.map": "/Dollar-React/static/js/3.de7241f5.chunk.js.map",
+    "main.js": "/Dollar-React/static/js/main.54709d93.chunk.js",
+    "main.js.map": "/Dollar-React/static/js/main.54709d93.chunk.js.map",
+    "runtime-main.js": "/Dollar-React/static/js/runtime-main.d37d8cf0.js",
+    "runtime-main.js.map": "/Dollar-React/static/js/runtime-main.d37d8cf0.js.map",
+    "static/js/2.3bb9ec75.chunk.js": "/Dollar-React/static/js/2.3bb9ec75.chunk.js",
+    "static/js/2.3bb9ec75.chunk.js.map": "/Dollar-React/static/js/2.3bb9ec75.chunk.js.map",
+    "static/js/3.bb76f2c5.chunk.js": "/Dollar-React/static/js/3.bb76f2c5.chunk.js",
+    "static/js/3.bb76f2c5.chunk.js.map": "/Dollar-React/static/js/3.bb76f2c5.chunk.js.map",
     "index.html": "/Dollar-React/index.html",
     "static/css/main.a3c70c56.chunk.css.map": "/Dollar-React/static/css/main.a3c70c56.chunk.css.map",
-    "static/js/2.07c0f258.chunk.js.LICENSE.txt": "/Dollar-React/static/js/2.07c0f258.chunk.js.LICENSE.txt",
-    "static/media/svg-1.1242716c.svg": "/Dollar-React/static/media/svg-1.1242716c.svg",
+    "static/js/2.3bb9ec75.chunk.js.LICENSE.txt": "/Dollar-React/static/js/2.3bb9ec75.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/Dollar-React/static/media/svg-1.1242716c.svg",
+    "static/media/svg-2.5f11287c.svg": "/Dollar-React/static/media/svg-2.5f11287c.svg",
     "static/media/svg-3.5394e075.svg": "/Dollar-React/static/media/svg-3.5394e075.svg",
     "static/media/svg-4.0bd0cf47.svg": "/Dollar-React/static/media/svg-4.0bd0cf47.svg",
     "static/media/video.7d1ea6a9.mp4": "/Dollar-React/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f0df983.js",
-    "static/js/2.07c0f258.chunk.js",
+    "static/js/runtime-main.d37d8cf0.js",
+    "static/js/2.3bb9ec75.chunk.js",
     "static/css/main.a3c70c56.chunk.css",
-    "static/js/main.4797cd90.chunk.js"
+    "static/js/main.54709d93.chunk.js"
   ]
 }
